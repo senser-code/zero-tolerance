@@ -129,4 +129,4 @@ addcommand("obfuscate", async function(msg, args) {
         msg.channel.stopTyping()
     }
 }, true)
-Bot.login("") // free niggers dm Stroketon#0019
+Bot.login("")
